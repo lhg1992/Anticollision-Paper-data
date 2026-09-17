@@ -1,5 +1,6 @@
 # Anticollision-Paper-data
-This repository provides the data for the anticollision paper.
+This repository provides the data for the anticollision paper.  
+**Click the pictures below to open interactive figures**
 
 ## Case 3.1_1 Anticollision trajectory with a fixed MASD (MASD=100)
 [![Case 3.1_1 plotly figure](./docs/Case3.1_1.png)](https://lhg1992.github.io/Anticollision-Paper-data/Case3.1_1.html)
